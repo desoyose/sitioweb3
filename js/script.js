@@ -3,3 +3,5 @@ function anadir(){
 
    window.alert("Vaya"); 
 }
+var cadena="";
+var la="";
